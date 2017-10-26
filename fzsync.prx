@@ -1,0 +1,6 @@
+%X -a thread_a
+%X -a thread_b
+%G
+quality: 10
+memlim: 8196
+%%
